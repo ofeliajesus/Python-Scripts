@@ -17,7 +17,7 @@ for file in listdirs(sys.argv[1]):
 
 
 
-   
+#  Execute the script python3 rename_folders.py arg1 arg2   
 
 
 
